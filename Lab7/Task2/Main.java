@@ -2,7 +2,7 @@ class Main
 {
 	public static void main(String []abcd)
 	{
-		Student s=new Student("Sameer","tdm","SW",18,945000.00);
+		Student s=new Student("Umar","tdm","SW",18,945000.00);
 		s.setProgram("SW");
 		s.setYear(18);
 		s.setFee(945000.00);
